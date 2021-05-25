@@ -2,7 +2,7 @@
 
 [![Aries-Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aries-Dawn&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aries-Dawn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aries-Dawn&hide=Ruby)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aries-Dawn/Aries-Dawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
