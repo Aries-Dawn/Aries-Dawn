@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Aries-Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aries-Dawn&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aries-Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aries-Dawn&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aries-Dawn&hide=Ruby&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
