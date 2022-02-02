@@ -8,14 +8,12 @@
 
 ### One, two, three, Cheese!
 
-- ⚡ A Senior UG @ SUSTech CSE
-- 🔭 Software (backend)
 
 ![Aries-Dawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aries-Dawn&count_private=true&bg_color=40,C7EDE9,AFD7ED&title_color=458994&text_color=14446A&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aries-Dawn&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,5 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
